@@ -49,4 +49,4 @@ def convert_number(n, a, b):
 if st.button("Convert!"):
     result = convert_number(n, a, b)
     st.subheader("✅ Result:")
-    st.markdown(f"<h2 style='color:#2C3E50;'>{result}</h2>", unsafe_allow_html=True)
+    st.markdown(f"<h2 style='color:#FFFFFF;'>{result}</h2>", unsafe_allow_html=True)
